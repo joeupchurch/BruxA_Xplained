@@ -1,6 +1,8 @@
 /*	BruxA_revA1 - based on code from BruxA_revA and build from new GCC project
 	for ATSAMD21E18A board. */
 
+/*Testing changes for github */
+
 #include <asf.h>
 #include "console_serial.h"
 #include "ble_manager.h"
